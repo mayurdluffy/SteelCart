@@ -2,8 +2,8 @@ import Link from 'next/link'
 import React from 'react'
 
 interface IPropType {
-    value: String,
-    url: String,
+    value: string,
+    url: string,
 }
 
 export const Navlink = ({ value, url }: IPropType) => {

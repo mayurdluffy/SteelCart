@@ -5,7 +5,7 @@ import { DarkModeButton } from './custom_components/DarkModeButton'
 import Link from 'next/link'
 import NavMenu from './custom_components/NavMenu'
 import { Input } from "@/components/ui/input"
-import { Button } from "@/components/ui/button"
+// import { Button } from "@/components/ui/button"
 import SignInDialogueBox from './custom_components/SignInDialogueBox'
 
 export const Header = () => {
